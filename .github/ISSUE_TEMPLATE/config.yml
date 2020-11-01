@@ -1,0 +1,7 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 报告安全问题
+    url: "mailto:lug@hit.edu.cn"
+    about: 报告安全问题时请发送邮件至此邮箱。如果邮件需要加密，GPG Fingerprint 为 0C4D821F9E273AA2AF23521A1E7AD2E8EC7DB9CF
+  - name: 加入我们
+    about: 如果想要加入 HITLUG，请加入 QQ 群 1153235504
